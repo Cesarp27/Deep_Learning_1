@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Mar  9 02:39:36 2022
+
+@author: cesar
+"""
+
+###### Requirements without Version Specifiers ######
+
+PIL
+matplotlib.pyplot
+tensorflow
+numpy
+cv2
