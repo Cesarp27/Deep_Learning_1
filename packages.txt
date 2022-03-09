@@ -1,7 +1,5 @@
-###### Requirements without Version Specifiers ######
-
-PIL
-matplotlib.pyplot
-tensorflow
-numpy
-cv2
+pip install PIL
+pip install matplotlib
+pip install tensorflow
+pip install numpy
+pip install cv2
