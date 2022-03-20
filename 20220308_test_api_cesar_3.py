@@ -10,12 +10,7 @@ import streamlit as st
 from PIL import Image
 import matplotlib.pyplot as plt
 import tensorflow as tf
-#import tensorflow_hub as hub
 import numpy as np
-from tensorflow.keras import preprocessing
-
-from numpy import asarray
-
 import cv2
 
 
