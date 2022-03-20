@@ -45,16 +45,7 @@ batch_size = 40
 img_height = 200
 img_width = 200    
 
-testing_ds = tf.keras.preprocessing.image_dataset_from_directory(
-'data',
-    validation_split=0.2,
-    subset= "validation",
-    seed=42,
-    image_size= (img_height, img_width),
-    batch_size=batch_size
-)
-
-class_names = testing_ds.class_names
+class_names = ['with_mask', 'without_mask']
 
 loaded_model = tf.keras.models.load_model('model')
 
