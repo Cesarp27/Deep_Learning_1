@@ -1,5 +1,5 @@
-Pillow==8.4.0
-matplotlib==3.5.0
-tensorflow==2.8.0
-numpy==1.20.3
-opencv-python==4.5.5.62
+Pillow
+matplotlib
+tensorflow
+numpy
+opencv-python
