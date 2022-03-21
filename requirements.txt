@@ -3,4 +3,4 @@ Pillow
 matplotlib
 tensorflow-cpu
 numpy
-opencv-python
+opencv-python-headless
